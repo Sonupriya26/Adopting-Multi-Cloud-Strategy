@@ -1,1 +1,1 @@
-Adopting Multi-Cloud Strategy with Docker and Kubernetes 
+Adopting Multi-Cloud Strategy using Docker and Kubernetes 
